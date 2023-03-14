@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_micro_projects-pagination.git/static/css/main.073c9b0a.css",
+    "main.js": "/react_micro_projects-pagination.git/static/js/main.ccb3390c.js",
+    "index.html": "/react_micro_projects-pagination.git/index.html",
+    "main.073c9b0a.css.map": "/react_micro_projects-pagination.git/static/css/main.073c9b0a.css.map",
+    "main.ccb3390c.js.map": "/react_micro_projects-pagination.git/static/js/main.ccb3390c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccb3390c.js"
+  ]
+}
